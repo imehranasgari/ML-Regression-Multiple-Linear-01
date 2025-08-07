@@ -30,7 +30,7 @@ This notebook demonstrates the full pipeline of implementing multiple linear reg
    ```python
    regr = LinearRegression()
    regr.fit(train_x, train_y)
-````
+``
 
 6. **Evaluation**
 
