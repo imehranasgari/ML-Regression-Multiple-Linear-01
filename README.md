@@ -131,6 +131,6 @@ ENGINESIZE | CYLINDERS | FUELCONSUMPTION_COMB | CO2EMISSIONS
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
 
 ```
